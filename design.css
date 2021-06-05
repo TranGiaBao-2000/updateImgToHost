@@ -1,0 +1,17 @@
+.design-img {
+  width: 100%;
+  position: absolute;
+  top: 170px;
+  right: 10px;
+  left: 10px;
+  display: flex;
+  justify-content: center;
+}
+.design-img img {
+  width: 40%;
+  margin-right: 20px;
+}
+.model {
+  position: relative;
+  width: 600px;
+}
